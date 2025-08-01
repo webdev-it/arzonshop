@@ -1,5 +1,5 @@
 // --- Конфиг API ---
-const API_URL = 'https://myshop.onrender.com/api/products';
+const API_URL = 'https://arzonshop.onrender.com/api/products';
 
 // --- SPA роутинг ---
 window.addEventListener('popstate', renderRoute);

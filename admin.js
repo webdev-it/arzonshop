@@ -1,4 +1,4 @@
-const API_URL = 'https://myshop.onrender.com/api/products';
+const API_URL = 'https://arzonshop.onrender.com/api/products';
 const ADMIN_PASS = 'admin123'; // Пример пароля
 
 // --- SPA роутинг админки ---
